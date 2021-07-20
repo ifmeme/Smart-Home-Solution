@@ -1,2 +1,3 @@
 # Smart-Home-Solution
-智慧家庭解决方案
+智慧家庭解决方
+for meme
